@@ -15,9 +15,13 @@ I'm <strong>Guido</strong> and I love to code :computer: &nbsp; and dance :man_d
 
 ---
 
-<span align="left">
-  <img alt="Elgorditosalsero's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=elgorditosalsero&show_icons=true&theme=material-palenight&hide_border=true&border_radius=12&custom_title=elgorditosalsero's&nbsp;stats" />
-</span>
-<span align="right">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elgorditosalsero&layout=compact&theme=material-palenight&hide_border=true&border_radius=12&custom_title=elgorditosalsero's&nbsp;top&nbsp;languages" />
-</span>
+## Learn more about me
+
+- <strong><a href="https://links.guidoporcaro.dev" target="_blank">Linktree</a></strong>
+- <strong><a href="https://guidoporcaro.dev" target="_blank">Website</a></strong>
+- <strong><a href="https://blog.guidoporcaro.dev" target="_blank">Blog</a></strong>
+
+---
+
+<img alt="Elgorditosalsero's GitHub stats" src="https://elgo-stats.vercel.app/api?username=elgorditosalsero&show_icons=true&theme=material-palenight&hide_border=true&border_radius=12&custom_title=elgorditosalsero's&nbsp;stats" />
+<img alt="Top languages" src="https://elgo-stats.vercel.app/api/top-langs/?username=elgorditosalsero&size_weight=0.5&count_weight=0.5&langs_count=10&layout=donut&theme=material-palenight&hide_border=true&border_radius=12&custom_title=elgorditosalsero's&nbsp;top&nbsp;languages" />
