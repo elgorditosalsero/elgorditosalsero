@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Guido Porcaro Logo" src="images/logo.png" width="224" />
+  <img alt="Guido Porcaro Logo" src="images/logo.svg" width="500" />
 </p>
 
 # Welcome, mate :purple_heart:
