@@ -1,6 +1,4 @@
-<p align="center">
-  <img alt="Guido Porcaro Logo" src="images/logo.svg" width="500" />
-</p>
+<img alt="Guido Porcaro Logo" src="images/logo.svg" width="300" />
 
 # Welcome, mate :purple_heart:
 
