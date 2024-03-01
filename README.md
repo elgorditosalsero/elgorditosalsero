@@ -8,7 +8,7 @@ I'm **Guido** but I'm mostly known as **elgorditosalsero** both on the web and I
 
 ### Working life :computer:
 
-While working, I'm a **Señor Frontend Engineer** and **Tech Lead** of my team at <a href="https://www.linkedin.com/company/zendesk/mycompany/" target="_blank">Zendesk</a> (<a href="https://www.github.com/zendesk" target="_blank">GitHub</a>)
+While working, I'm a **Staff Software Engineer** and **Tech Lead** of my team at <a href="https://www.linkedin.com/company/zendesk/mycompany/" target="_blank">Zendesk</a> (<a href="https://www.github.com/zendesk" target="_blank">GitHub</a>)
 
 When I have some free time from my best hobby that you'll discover soon, I contribute to the open source both via personal or someone projects.
 
